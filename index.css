@@ -1,15 +1,7 @@
 h1{
-    color:rgb(36, 36, 216);
-}
-h2{
-    color:red;
-    font-size: large;
+   color:brown;
+   text-align: center;
 }
 span{
-    color:rgb(206, 20, 128);
-}
-h5{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:green;
-    font-size: medium;
+    color: black;
 }
